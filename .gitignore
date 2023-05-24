@@ -1,2 +1,6 @@
 tmp/todo.txt
+<<<<<<< HEAD
+=======
+tmp/*
+>>>>>>> dbc8273 (màj du fichier gitignore dans le repo clone)
 *.txt
